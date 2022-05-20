@@ -8,3 +8,7 @@ function carga(){
 function descarga(){
 	console.log('heyyyyy');
 }
+
+function descarga2(){
+	console.log('heyyyyy 2');
+}
