@@ -1,3 +1,8 @@
-body{
+.btn-app-v1{
 	font-weight: bold;
+	color: red;
+}
+
+.btn-app-v2{
+	color: blue;
 }

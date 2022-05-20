@@ -1,12 +1,10 @@
 var i = 1;
 var j = 2;
 
-function saludo3(){
+function carga(){
 	console.log('saludos amigo');
-	alert('saludos amigo');
 }
 
-function alerta(){
+function descarga(){
 	console.log('heyyyyy');
-	alert('heyyyyy');
 }
