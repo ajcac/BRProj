@@ -10,3 +10,8 @@ function alerta(){
 	console.log('heyyyyy');
 	alert('heyyyyy');
 }
+
+function alerta2(){
+	console.log('heyyyyy 2');
+	alert('heyyyyy 3');
+}
